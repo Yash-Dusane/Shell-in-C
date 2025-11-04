@@ -1,0 +1,15 @@
+echo "./test" | ls >> Hello.txt
+echo "./test" | ls
+echo "./"| ls >> Hello.txt
+ echo "./"| ls
+echo "Hello World" | wc -l >> Hello.txt
+iman read
+echo "Hello World" > Hello.txt
+echo "Hello World
+echo "Hello World" >> Hello.txt
+ls
+cd ..
+iman f
+iman read
+neonate -n -4
+neonate -n 0
